@@ -6,5 +6,5 @@ Ovaj repozitorijum sadrži:
 2. Nova poglavlja koja se ne nalaze u knjizi
 3. Savete kako da dobijete maksimim od SQLgpt-a
 
-Više o knjizi: https://knjige.kombib.rs/sql-i-sqlgpt-od-osnova-do-slozenih-resenja
 ![image](https://github.com/kombib/SQL-i-SQLgpt---kod-i-nova-poglavlja/assets/37545268/98082ee3-861b-408a-86ba-bf219ea3ab1b)
+Više o knjizi: https://knjige.kombib.rs/sql-i-sqlgpt-od-osnova-do-slozenih-resenja
